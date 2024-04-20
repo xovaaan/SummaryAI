@@ -17,6 +17,7 @@ const Hero = () => {
       <h2 className='mt-5 text-lg text-gray-600 sm:text-xl text-center max-w-2xl'>
       AI-driven Article Link to Summary technology condenses linked articles into brief, <span className='desc'>informative overviews using natural language processing</span>
       </h2>
+     
     </header>
   );
 };

@@ -66,6 +66,11 @@ const Demo = () => {
     <section className='mt-16 w-full max-w-xl'>
       {/* Search */}
       <div className='flex flex-col w-full gap-2'>
+     <div className="flex justify-center items-center ">
+     <p className="py-2  font-bold font-satoshi  text-gray-600 ">
+        Drop a News or Article Link
+      </p>
+     </div>
         <form
           className='relative flex justify-center items-center'
           onSubmit={handleSubmit}
