@@ -117,7 +117,10 @@
 
 .title{
   
-  color: orangered;
+  background-image: linear-gradient(to right, #14a7a7, #8A2BE2);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
 }
 
 .summary-box{
